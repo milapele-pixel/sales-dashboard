@@ -619,3 +619,4 @@ Date,Region,Product_Category,Sales_Amount,Profit,Discount,Customer_Segment
 2023-11-17,Āzija,Kosmētika,532.68,133.46,0.116,VIP
 2023-03-19,Āzija,Tehnika,2935.83,165.16,0.199,Enterprise
 2023-05-11,Eiropa,Kosmētika,203.98,77.67,0.125,VIP
+2023-12-31,Eiropa,Tehnika,1000,150,0.05,SMB
